@@ -1,3 +1,4 @@
+Problem title : Reverse the array neha's diary netries.
 #include<iostream>
 using namespace std;
 int main(){
@@ -15,4 +16,5 @@ int main(){
         cout<<time[n-1-i]<<"\n";
     }
     return 0;
+
 }
