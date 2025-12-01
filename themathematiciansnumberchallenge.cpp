@@ -1,3 +1,4 @@
+Problem title: The mathematician's number challenge.
 #include <iostream>
 using namespace std;
 
@@ -28,4 +29,5 @@ int main() {
         cout << "Odd Number" << endl;
 
     return 0;
+
 }
