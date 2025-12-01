@@ -1,3 +1,4 @@
+Problem title:The farmer fencing problem.
 #include <iostream>
 using namespace std;
 
@@ -11,4 +12,5 @@ int main() {
     cout << "Perimeter = " << perimeter << endl;
 
     return 0;
+
 }
