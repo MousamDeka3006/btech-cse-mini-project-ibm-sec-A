@@ -1,3 +1,4 @@
+Problem title: The carpenter's measurement problem.
 #include<iostream>
 using namespace std;
 int main()
@@ -17,4 +18,5 @@ int main()
     cout<<"gcd:"<<gcd<<endl;
     cout<<"lcm"<<lcm<<endl;
     return 0;
+
 }
