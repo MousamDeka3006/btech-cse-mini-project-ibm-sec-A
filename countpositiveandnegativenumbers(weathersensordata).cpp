@@ -1,3 +1,4 @@
+problem title: Count positive and negative number.
 #include<iostream>
 using namespace std;
 int main(){
@@ -23,4 +24,5 @@ int main(){
     cout<<"Negative="<<negative<<endl;
     cout<<"Zero="<<zero<<endl;
     return 0;
+
 }
