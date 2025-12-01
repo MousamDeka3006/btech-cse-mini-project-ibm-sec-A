@@ -1,3 +1,4 @@
+problem title:AdtU Canteen Bill Analyzer.
 #include <iostream>
 using namespace std;
 
@@ -59,3 +60,4 @@ int main() {
 
     return 0;
 }
+
