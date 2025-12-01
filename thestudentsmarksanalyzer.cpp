@@ -1,3 +1,4 @@
+Problem title:The student's mark analyzer.
 #include<iostream>
 using namespace std;
 int main ()
@@ -18,4 +19,5 @@ int main ()
     cout<<"total=\n"<<total<<endl;
     cout<<"average=\n"<<average<<endl;
     return 0;
+
 }
