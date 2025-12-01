@@ -1,3 +1,4 @@
+Problem title: The shopkeeper's lucky number.
 #include<iostream>
 using namespace std;
 int main(){
@@ -20,4 +21,5 @@ int main(){
     }
     
     return 0;
+
 }
