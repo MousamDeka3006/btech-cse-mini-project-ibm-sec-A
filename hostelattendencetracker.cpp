@@ -1,3 +1,4 @@
+problem title: Hostel attendence tracker.
 #include <iostream>
 using namespace std;
 
@@ -47,3 +48,4 @@ int main() {
 
     return 0;
 }
+
